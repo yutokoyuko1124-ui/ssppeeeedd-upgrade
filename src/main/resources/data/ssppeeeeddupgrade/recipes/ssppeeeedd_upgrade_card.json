@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RSR",
+    "SUS",
+    "RSR"
+  ],
+  "key": {
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "S": {
+      "item": "minecraft:sugar"
+    },
+    "U": {
+      "item": "mekanism:upgrade_speed"
+    }
+  },
+  "result": {
+    "item": "ssppeeeeddupgrade:ssppeeeedd_upgrade_card",
+    "count": 2
+  }
+}
