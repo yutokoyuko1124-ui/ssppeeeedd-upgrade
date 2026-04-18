@@ -1,5 +1,14 @@
 {
-  "item.ssppeeeeddupgrade.ssppeeeedd_upgrade_card": "SSPPEEEEDDアップグレードカード",
-  "itemGroup.ssppeeeeddupgrade": "SSPPEEEEDD Upgrade",
-  "message.ssppeeeeddupgrade.apply_failed": "この機械にはSSPPEEEEDDアップグレードカードを適用できません。"
+  "item.ssppeeeeddupgrade.ssppeeeedd_upgrade_card": "SSPPEEEEDD Upgrade Card",
+  "item.ssppeeeeddupgrade.blue_jacket": "青い服",
+  "item.ssppeeeeddupgrade.peter_rabbit_spawn_egg": "ピーターウサギのスポーンエッグ",
+  "entity.ssppeeeeddupgrade.peter_rabbit": "ピーター",
+
+  "item.ssppeeeeddupgrade.ssppeeeedd_upgrade_card.tooltip.1": "Mekanism機械の速度を加速する。",
+  "item.ssppeeeeddupgrade.ssppeeeedd_upgrade_card.tooltip.2": "速度 +10% / 消費電力 +2%",
+  "item.ssppeeeeddupgrade.ssppeeeedd_upgrade_card.tooltip.3": "最大64枚まで適用可能(互換環境依存)",
+
+  "message.ssppeeeeddupgrade.apply.success": "SSPPEEEEDDアップグレードを適用した。",
+  "message.ssppeeeeddupgrade.apply.failed": "この機械には適用できない。",
+  "message.ssppeeeeddupgrade.apply.maxed": "これ以上アップグレードを適用できない。"
 }

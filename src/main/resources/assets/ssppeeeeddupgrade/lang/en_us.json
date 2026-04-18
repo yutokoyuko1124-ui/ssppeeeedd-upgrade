@@ -1,5 +1,14 @@
 {
   "item.ssppeeeeddupgrade.ssppeeeedd_upgrade_card": "SSPPEEEEDD Upgrade Card",
-  "itemGroup.ssppeeeeddupgrade": "SSPPEEEEDD Upgrade",
-  "message.ssppeeeeddupgrade.apply_failed": "Could not apply SSPPEEEEDD Upgrade Card to this machine."
+  "item.ssppeeeeddupgrade.blue_jacket": "Blue Jacket",
+  "item.ssppeeeeddupgrade.peter_rabbit_spawn_egg": "Peter Rabbit Spawn Egg",
+  "entity.ssppeeeeddupgrade.peter_rabbit": "Peter",
+
+  "item.ssppeeeeddupgrade.ssppeeeedd_upgrade_card.tooltip.1": "Accelerates Mekanism machine processing.",
+  "item.ssppeeeeddupgrade.ssppeeeedd_upgrade_card.tooltip.2": "Speed +10% / Energy use +2%",
+  "item.ssppeeeeddupgrade.ssppeeeedd_upgrade_card.tooltip.3": "Up to 64 cards (depends on compatibility layer)",
+
+  "message.ssppeeeeddupgrade.apply.success": "Applied SSPPEEEEDD Upgrade.",
+  "message.ssppeeeeddupgrade.apply.failed": "Cannot apply to this machine.",
+  "message.ssppeeeeddupgrade.apply.maxed": "No more upgrades can be applied."
 }

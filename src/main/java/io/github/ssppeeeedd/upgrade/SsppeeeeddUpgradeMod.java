@@ -1,6 +1,7 @@
 package io.github.ssppeeeedd.upgrade;
 
 import io.github.ssppeeeedd.upgrade.integration.MekanismIntegrationHandler;
+import io.github.ssppeeeedd.upgrade.registry.ModEntityTypes;
 import io.github.ssppeeeedd.upgrade.registry.ModItems;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.eventbus.api.IEventBus;
@@ -14,6 +15,7 @@ public class SsppeeeeddUpgradeMod {
     public SsppeeeeddUpgradeMod() {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
         ModItems.register(modEventBus);
+        ModEntityTypes.register(modEventBus);
 
         MinecraftForge.EVENT_BUS.register(new MekanismIntegrationHandler());
     }
